@@ -1,0 +1,47 @@
+plugins/vocabbuilder.koplugin/main.lua
+  s_591258efbd030c::t_b7f1734688f965 2174
+  s_591258efbd030c::t_6d1cf8eddc62ae 2114-2136,2152-2153,2155-2156,2159-2164,2167-2170,2181-2186,2188-2189,2193,2210-2211
+  s_291cca4b01deb8::t_12e58119356c3f 2187
+  s_591258efbd030c::t_bf1439e2c7fa80 2139
+  s_591258efbd030c::t_44464ebd472a89 2194-2195
+  s_291cca4b01deb8::t_ece75ea527e997 2165
+  s_591258efbd030c::t_e016c2f81c824a 577-586
+  s_591258efbd030c::t_a6a840500ed18a 2292,2295
+  s_291cca4b01deb8::t_b5a8325ea525bb 2157-2158
+  s_591258efbd030c::t_805bbe69f06457 2171
+  s_591258efbd030c::t_caa84c5a93b563 2050
+  s_591258efbd030c::t_715c8a257707ce 1982-1984,1986-1991,1993-1994,1996-2013,2016-2017,2019-2038,2041-2049,2051-2073,2112,2140,2142,2144-2145,2147,2166,2180,2192,2197,2203-2209
+  s_591258efbd030c::t_195d6013c59438 494
+  s_591258efbd030c::t_21e563b86ca520 1985,1992,1995,2014-2015,2018,2040,2111,2113,2149-2150
+  s_591258efbd030c::t_1b0e3090b76925 2074-2110
+  s_291cca4b01deb8::t_9c391e17281d69 2141,2143,2146,2148
+  s_591258efbd030c::t_4bf0710f399341 2196
+  s_291cca4b01deb8::t_0ee16f1fe2e03c 2039
+  s_291cca4b01deb8::t_065765274e97e3 2176-2177
+  s_591258efbd030c::t_6780049e542b8e 2198
+  s_291cca4b01deb8::t_42a82d6a822113 2199-2202
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "02ff80dda4c9a2b4aca8d37e045f4c6f338e0381",
+  "prompts": {},
+  "sessions": {
+    "s_291cca4b01deb8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "68c8a3d1-a0df-49eb-bdd7-a768a09460f0",
+        "model": "composer-2.5"
+      },
+      "human_author": "weijiuqiao <weijiuqiao@winktech.sg>"
+    },
+    "s_591258efbd030c": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "d66cf380-bcb2-40b0-9a26-62c1d6d3f5b1",
+        "model": "composer-2.5"
+      },
+      "human_author": "weijiuqiao <weijiuqiao@winktech.sg>"
+    }
+  }
+}
