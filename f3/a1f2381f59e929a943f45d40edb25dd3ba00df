@@ -1,0 +1,27 @@
+plugins/vocabbuilder.koplugin/main.lua
+  s_291cca4b01deb8::t_07c524db924c68 2088-2092
+  s_291cca4b01deb8::t_7d42f39a434010 2195-2196,2200-2201
+  s_291cca4b01deb8::t_023054467dc8ab 549-561
+  s_291cca4b01deb8::t_d353a2b252c45a 1998
+  s_291cca4b01deb8::t_5c4459aea559d3 492
+  s_291cca4b01deb8::t_e4fcddc809f5fe 2004
+  s_291cca4b01deb8::t_080ed0b1730b1d 2193,2197-2198,2206-2214
+  s_291cca4b01deb8::t_07b1457277aeab 2101-2110,2118-2121
+  s_291cca4b01deb8::t_b8e1993d6945cf 596-598
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.5",
+  "base_commit_sha": "f3a1f2381f59e929a943f45d40edb25dd3ba00df",
+  "prompts": {},
+  "sessions": {
+    "s_291cca4b01deb8": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "68c8a3d1-a0df-49eb-bdd7-a768a09460f0",
+        "model": "composer-2.5"
+      },
+      "human_author": "weijiuqiao <weijiuqiao@winktech.sg>"
+    }
+  }
+}
